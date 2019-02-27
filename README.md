@@ -1,4 +1,4 @@
-# granular_synth
+# granular_synth in JUCE for a DAW
 granular_synth in JUCE
 Plug-in para DAW Sintesis granular.
 Hecho en juce y c++.
